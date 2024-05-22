@@ -21,7 +21,7 @@ export default function Craousel(props) {
     const fetchData = async () => {
       const myHeaders = new Headers();
       myHeaders.append("accept", "application/json");
-      myHeaders.append("projectID", "d63nfx122ebp");
+      myHeaders.append("projectID", "zqow1krva0z2");
       const requestOptions = {
         method: "GET",
         headers: myHeaders,
